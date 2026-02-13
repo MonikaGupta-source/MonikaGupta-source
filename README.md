@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 12th Passout exploring Data Science
+- 🎓 Pursuing Batchelors in Computer Application
 - 🐍 Currently learning Python step by step
 - 📊 Interested in Data Analysis & Visualization
 - 🌱 Building consistency through daily practice
