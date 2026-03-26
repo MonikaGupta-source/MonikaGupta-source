@@ -24,13 +24,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MonikaGupta-source&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaGupta-source&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
----
-
 ### 🔥 Contribution Heatmap
 
 <div align="center">
