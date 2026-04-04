@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 About Me (Student Perspective)
+## 📌 About Me
 
 - 🎓 Passionate **Data Science student** – learning by building, one project at a time.
 - 🐍 **Python** & **pandas** are my current superpowers.
